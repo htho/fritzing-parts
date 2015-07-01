@@ -1,2 +1,2 @@
 # fritzing-parts
-Some Fritzing Parts
+These are some Parts I needed to create for Fritzing.
