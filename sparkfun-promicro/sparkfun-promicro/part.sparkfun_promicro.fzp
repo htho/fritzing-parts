@@ -29,22 +29,22 @@ https://github.com/unorthodox-engineers/unorthodox-arduino/blob/master/Unorthodo
  </description>
  <views>
   <iconView>
-   <layers image="icon/prefix0000_0c04d3f86389bff62400a1b91e187a7f_1_icon.svg">
+   <layers image="icon/sparkfun_promicro_icon.svg">
     <layer layerId="icon"/>
    </layers>
   </iconView>
   <breadboardView>
-   <layers image="breadboard/prefix0000_0c04d3f86389bff62400a1b91e187a7f_1_breadboard.svg">
+   <layers image="breadboard/sparkfun_promicro_breadboard.svg">
     <layer layerId="breadboard"/>
    </layers>
   </breadboardView>
   <schematicView>
-   <layers image="schematic/prefix0000_0c04d3f86389bff62400a1b91e187a7f_1_schematic.svg">
+   <layers image="schematic/sparkfun_promicro_schematic.svg">
     <layer layerId="schematic"/>
    </layers>
   </schematicView>
   <pcbView>
-   <layers image="pcb/prefix0000_0c04d3f86389bff62400a1b91e187a7f_1_pcb.svg">
+   <layers image="pcb/sparkfun_promicro_pcb.svg">
     <layer layerId="silkscreen"/>
     <layer layerId="copper0"/>
     <layer layerId="copper1"/>
